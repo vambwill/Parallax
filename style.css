@@ -1,0 +1,104 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.figura1 {
+    background-image: url(img/road-red.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    opacity: 0.70;
+}
+
+.figura2 {
+    background-image: url(img/avenue-2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    opacity: 0.70;
+
+
+}
+
+.figura3 {
+    background-image: url(img/avenue-1.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    opacity: 0.70;
+
+
+}
+
+.text {
+    border: 20px solid;
+}
+
+.text {
+    border-image-source: linear-gradient(orange 20%, green);
+    border-image-slice: 10;
+    border-image-outset: 20px 20px;
+}
+
+.subtitle {
+    color: white;
+    font-size: 50px;
+    word-spacing: 7px;
+    letter-spacing: 3px;
+    
+}
+section {
+    height: 250px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(56, 55, 55);
+    text-decoration-color: orange;
+    text-shadow: 2px 2px 2px;
+
+}
+
+
+h2 {
+    text-transform: uppercase;
+    color: orange;
+    word-spacing: 7px;
+    letter-spacing: 3px;
+    margin-bottom: 5px;
+
+}
+
+p {
+    padding: 15px 30px 15px;
+    font-size: 22px;
+    color: orange;
+    word-spacing: 7px;
+    letter-spacing: 3px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}

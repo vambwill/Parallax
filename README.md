@@ -1,2 +1,3 @@
 # Parallax
- Exercício: efeito Parallax
+ 
+ Exercício: Parallax Efect.
